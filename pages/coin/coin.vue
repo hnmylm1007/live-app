@@ -54,7 +54,7 @@
 			return {
 				activeIndex: 0,
 				list: [{
-					coin: 10,
+					coin: 11,
 					price: 10
 				}, {
 					coin: 20,
